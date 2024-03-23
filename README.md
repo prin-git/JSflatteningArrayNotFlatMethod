@@ -1,0 +1,2 @@
+# JSflatteningArrayNotFlatMethod
+Created with CodeSandbox
